@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      database: wtm-website
+      host: localhost
+      port: 27017
